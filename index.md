@@ -62,7 +62,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
-/*
+/* Arduino IDE code for sensor to activate buzzer in desired distance range
  */
 const int trigPin = 14; //set variables as pin numbers for less confusion/magic numbering + ease of changing
 const int echoPin = 15;
@@ -103,9 +103,9 @@ void loop() {
 
   }
   else{
-    digitalWrite(trigPin, LOW);
-    delay(60);
-    digitalWrite(buzz,LOW);
+    digitalWrite(trigPin, LOW);//set to low to ensure it is at low
+    delay(60);//to manage the rate at which sensor shoots sound when the object is out of it's range (prevent overheating)
+    digitalWrite(buzz,LOW);//turn off buzzer preventing continuous buzzer noise (active buzzer is toggle)
   }
   
   
