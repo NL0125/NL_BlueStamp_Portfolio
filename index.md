@@ -62,16 +62,56 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
-void setup() {
-  // put your setup code here, to run once:
+/*
+ */
+const int trigPin = 14; //set variables as pin numbers for less confusion/magic numbering + ease of changing
+const int echoPin = 15;
+const int buzz = 16;
+float cm,duration;
+
+int delaylay;
+
+void setup() { //just setup and begin rate of Serial to match with monitor
+  
+  pinMode(trigPin, OUTPUT);
+  pinMode(echoPin, INPUT);
+  pinMode(buzz,OUTPUT);
   Serial.begin(9600);
-  Serial.println("Hello World!");
+  
+
+  
+  
+    
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  digitalWrite(trigPin, LOW);//start of the loop sends out a short 10-microsecond pulse of noise
+  delayMicroseconds(2);
+  digitalWrite(trigPin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin, LOW);
+  
+  duration = pulseIn(echoPin, HIGH,30000);/*the echo pin is set to High upon the exit of the sound wave, and starts measuring once it is set to High. When the echo pin recieves the noise it sent, it switches to low and the pulseIn function records the time period between High to Low in microseconds*/
+  cm = (duration * 0.0343)/2;//conversion of speed of sound to cm/microsecond, to multiply it by duration multiseconds for distance
+  if (cm <= 150 && cm > 2){
+    delaylay = map(cm,2,150,50,800);
 
+    digitalWrite(buzz, HIGH);
+    delay(10);
+    digitalWrite(buzz,LOW);
+    delay(delaylay);
+
+  }
+  else{
+    digitalWrite(trigPin, LOW);
+    delay(60);
+    digitalWrite(buzz,LOW);
+  }
+  
+  
+    
 }
+
 ```
 
 # Bill of Materials
