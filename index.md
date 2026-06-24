@@ -59,9 +59,9 @@ For your first milestone, describe what your project is and how you plan to buil
 For my first milestone, I breadboarded a circuit that uses an ultrasonic sensor, buzzer, and pro micro board. I then wrote code for the circuit to buzz/beep at frequencies directly proportional to the distance an object is calculated to be from the buzzer. This warns visually impaired people about obstacles in front of their body, as well as telling them the severity of their potential collision.
 
 # First Milestone Images
-First sensor circuit iteration (Breadboard didn't work)
+First sensor circuit iteration (Breadboard didn't work)  
 <img width="300" height="300" alt="First iteration of sensor circuit" src="https://github.com/user-attachments/assets/b3e93e39-5440-43da-8568-75c1835a48b2" />
-Second sensor circuit iteration (Working)
+Second sensor circuit iteration (Working)  
 <img width="300" height="300" alt="1047" src="https://github.com/user-attachments/assets/ac43efb1-47c1-4283-91ac-f7ad0df3dac9" />
 
 
