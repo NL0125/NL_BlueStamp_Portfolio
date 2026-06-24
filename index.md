@@ -75,7 +75,8 @@ Milestone 1 Circuit Diagram with LED rather than buzzer for visual response (eas
 
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
+
+Code with the Arduino IDE  
 
 ```c++
 /* Code to make buzzer buzz at various frequencies based on calculated distance of an object from sensor
