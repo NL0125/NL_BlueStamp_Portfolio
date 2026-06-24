@@ -70,7 +70,7 @@ Second sensor circuit iteration (Working)
 
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.  
+Milestone 1 Circuit Diagram with LED rather than buzzer for visual response (ease of debugging)  
 <img width="490" height="290" alt="image" src="https://github.com/user-attachments/assets/768dcc3c-f00b-452f-8e8b-f1b53e2bffa7" />
 
 
