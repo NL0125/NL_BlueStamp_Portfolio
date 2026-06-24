@@ -55,6 +55,8 @@ For your first milestone, describe what your project is and how you plan to buil
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
 
+For my first milestone, I made a circuit that used an ultrasonic sensor, buzzer, and pro micro board. I then wrote code for the circuit to buzz/beep at frequencies directly proportional to the distance an object is calculated to be from the buzzer. This warns visually impaired people about obstacles in front of their body, as well as telling them the severity of their potential collision.
+
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
@@ -62,7 +64,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
-/* Arduino IDE code for sensor to activate buzzer in desired distance range
+/* Code to make buzzer buzz at various frequencies based on calculated distance of an object from sensor
  */
 const int trigPin = 14; //set variables as pin numbers for less confusion/magic numbering + ease of changing
 const int echoPin = 15;
@@ -77,29 +79,30 @@ void setup() { //just setup and begin rate of Serial to match with monitor
   pinMode(echoPin, INPUT);
   pinMode(buzz,OUTPUT);
   Serial.begin(9600);
-  
-
-  
-  
     
 }
 
 void loop() {
+ //digitalWrite(buzz,HIGH);
+ //y(2000);
   digitalWrite(trigPin, LOW);//start of the loop sends out a short 10-microsecond pulse of noise
   delayMicroseconds(2);
   digitalWrite(trigPin, HIGH);
   delayMicroseconds(10);
   digitalWrite(trigPin, LOW);
+  //Serial.println("Sent signal");
   
   duration = pulseIn(echoPin, HIGH,30000);/*the echo pin is set to High upon the exit of the sound wave, and starts measuring once it is set to High. When the echo pin recieves the noise it sent, it switches to low and the pulseIn function records the time period between High to Low in microseconds*/
   cm = (duration * 0.0343)/2;//conversion of speed of sound to cm/microsecond, to multiply it by duration multiseconds for distance
   if (cm <= 150 && cm > 2){
     delaylay = map(cm,2,150,50,800);
-
+    //Serial.println("Got past setting delay");
     digitalWrite(buzz, HIGH);
-    delay(10);
+    delay(20);
     digitalWrite(buzz,LOW);
     delay(delaylay);
+    Serial.println(String(cm));
+    //Serial.println("Buzzed" + String(cm));
 
   }
   else{
