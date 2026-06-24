@@ -58,6 +58,10 @@ For your first milestone, describe what your project is and how you plan to buil
 
 For my first milestone, I breadboarded a circuit that uses an ultrasonic sensor, buzzer, and pro micro board. I then wrote code for the circuit to buzz/beep at frequencies directly proportional to the distance an object is calculated to be from the buzzer. This warns visually impaired people about obstacles in front of their body, as well as telling them the severity of their potential collision.
 
+To complete the project, I must design where this circuit goes on a jacket/carbon fiber sheet, then actually obtain and cut out the carbon fiber, and then attach the various parts onto the carbon fiber vest and belt.
+
+Some challenges I faced during the first milestone were a faulty breadboard that required lots of debugging to discover, alongside compatability issues between my chromebook and the pro micro board. These connectivity issues were solved when I used my Windows laptop and the offline arduino IDE rather than chromebook and arduino cloud IDE. 
+
 # First Milestone Images
 First sensor circuit iteration (Breadboard didn't work)  
 <img width="300" height="300" alt="First iteration of sensor circuit" src="https://github.com/user-attachments/assets/b3e93e39-5440-43da-8568-75c1835a48b2" />  
@@ -67,6 +71,8 @@ Second sensor circuit iteration (Working)
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/768dcc3c-f00b-452f-8e8b-f1b53e2bffa7" />
+
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
