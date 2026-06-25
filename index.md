@@ -47,7 +47,7 @@ For your second milestone, explain what you've worked on since your previous mil
 # First Milestone
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l2qdgorQM70?si=HQVQbwGHnPglnoqT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l2qdgorQM70?si=HQVQbwGHnPglnoqT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 
 For my first milestone, I breadboarded a circuit that uses an ultrasonic sensor, buzzer, and pro micro board. I then wrote code for the circuit to buzz/beep at frequencies directly proportional to the distance an object is calculated to be from the buzzer. This warns visually impaired people about obstacles in front of their body, as well as telling them the severity of their potential collision.
