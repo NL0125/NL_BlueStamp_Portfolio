@@ -66,7 +66,7 @@ Second sensor circuit iteration (Working)
 Two soldered-to-perfboard circuits  
 <img width="300" height="300" alt="1054" src="https://github.com/user-attachments/assets/d0801220-992b-4303-ad26-2289bcae95bd" />  
 Second circuit wiring adjustments for tactile feedback  
-<img width="300" height="300" alt="1053" src="https://github.com/user-attachments/assets/5ee92d11-2636-435f-8a88-a2e598dbd5b0" />  
+<img width="300" height="300" alt="unnamed (2)" src="https://github.com/user-attachments/assets/54dadf02-5499-49a9-bfd2-b787fcaed53e" />  
 
 
 
@@ -133,7 +133,7 @@ void loop() {
 
 ```
 # Challenges
-For the second circuit created, the vibration motor to provide tactile rather than audible feedback was not working very well, most likely due to bad soldered connections. After testing if the motor worked and resoldering some joints for better connectivity, the motor worked. However, the strength of the motor wasn't enough to get the wearer's attention, so I moved on to CADing circuit boxes for the two components I made and ordering materials. //SOLVE THIS
+For the second circuit created, the vibration motor to provide tactile rather than audible feedback was not working very well, most likely due to bad soldered connections. After testing if the motor worked and resoldering some joints for better connectivity, the motor worked. However, the strength of the motor wasn't enough to get the wearer's attention, so I moved on to CADing circuit boxes for the two components I made and ordering materials. Afterwards, I decided it was a code issue and made the period at which the motor vibrates longer than the period the buzzer would take to beep. It turns out that I was right, so now the motor both works consistently and produces enough of a vibration to be felt through cloth (the earlier period for the buzzer wasn't long enough for the motor to get spinning if the distance was past a certain point because of the added delay).
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
