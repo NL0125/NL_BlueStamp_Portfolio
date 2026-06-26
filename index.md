@@ -127,7 +127,8 @@ void loop() {
 }
 
 ```
-
+# Challenges
+For the second circuit created, the vibration motor to provide tactile rather than audible feedback was not working very well, most likely due to bad soldered connections. After testing if the motor worked and resoldering some joints for better connectivity, the motor worked. However, the strength of the motor wasn't enough to get the wearer's attention, so I moved on to CADing circuit boxes for the two components I made and ordering materials. //SOLVE THIS
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
