@@ -66,7 +66,7 @@ Second sensor circuit iteration (Working)
 Two soldered-to-perfboard circuits  
 <img width="300" height="300" alt="1054" src="https://github.com/user-attachments/assets/d0801220-992b-4303-ad26-2289bcae95bd" />  
 Second circuit wiring adjustments for tactile feedback  
-<img width="300" height="300" alt="unnamed (2)" src="https://github.com/user-attachments/assets/54dadf02-5499-49a9-bfd2-b787fcaed53e" />  
+<img width="300" height="350" alt="unnamed (2)" src="https://github.com/user-attachments/assets/54dadf02-5499-49a9-bfd2-b787fcaed53e" />  
 
 
 
