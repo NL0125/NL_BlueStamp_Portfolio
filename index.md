@@ -45,6 +45,8 @@ For your second milestone, explain what you've worked on since your previous mil
 - What needs to be completed before your final milestone
 
 # Second Milestone Images
+<img width="300" height="300" alt="unnamed (4)" src="https://github.com/user-attachments/assets/52d7b971-b9b2-4fa6-8a67-433570192ab1" />  
+
 <img width="300" height="300" alt="unnamed (3)" src="https://github.com/user-attachments/assets/c2c9c85c-b16c-4ebd-a0f2-7ad14e73316c" />
 
 
