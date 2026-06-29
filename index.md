@@ -50,7 +50,8 @@ Schematics for attaching circuits to carbon fiber (to be worn like shown)
 Circuits + circuit boxes attached to foam pads  
 <img width="300" height="300" alt="unnamed (3)" src="https://github.com/user-attachments/assets/c2c9c85c-b16c-4ebd-a0f2-7ad14e73316c" />  
 3D printed angled circuit box demonstration  
-<img width="300" height="300" alt="unnamed (5)" src="https://github.com/user-attachments/assets/3106dec1-9c20-4c06-b894-5faa3dab0d8d" />
+<img width="3000" height="4000" alt="unnamed (5)" src="https://github.com/user-attachments/assets/cca0a0b0-0bef-489c-b8c0-cdd0888a5400" />  
+
 
 
 
