@@ -133,7 +133,7 @@ void loop() {
 
 ```
 
-*NOTE: The code for the vibration motor circuits varies in the fact that it sets PIN 16 to HIGH for 150 milliseconds rather than 10 milliseconds.*
+*NOTE: The code for the vibration motor circuits varies in the fact that it sets PIN 16 to HIGH for 150 milliseconds rather than 10 milliseconds. This is so the weight in the motor is spun for long enough that it shakes the motor and produces vibration.*
 
 # Challenges
 For the second circuit created, the vibration motor to provide tactile rather than audible feedback was not working very well, most likely due to bad soldered connections. After testing if the motor worked and resoldering some joints for better connectivity, the motor worked. However, the strength of the motor wasn't enough to get the wearer's attention, so I moved on to CADing circuit boxes for the two components I made and ordering materials. Afterwards, I decided it was a code issue and made the period at which the motor vibrates longer than the period the buzzer would take to beep. It turns out that I was right, so now the motor both works consistently and produces enough of a vibration to be felt through cloth (the earlier period for the buzzer wasn't long enough for the motor to get spinning if the distance was past a certain point because of the added delay).
