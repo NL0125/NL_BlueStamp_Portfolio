@@ -47,7 +47,7 @@ For your second milestone, explain what you've worked on since your previous mil
 # Second Milestone Images
 Schematics for attaching circuits to carbon fiber (to be worn like shown)  
 <img width="300" height="300" alt="unnamed (4)" src="https://github.com/user-attachments/assets/52d7b971-b9b2-4fa6-8a67-433570192ab1" />  
-Circuit + circuit boxes attached to foam pads  
+Circuits + circuit boxes attached to foam pads  
 <img width="300" height="300" alt="unnamed (3)" src="https://github.com/user-attachments/assets/c2c9c85c-b16c-4ebd-a0f2-7ad14e73316c" />
 
 
