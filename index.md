@@ -33,6 +33,11 @@ For your final milestone, explain the outcome of your project. Key details to in
 For my final milestone, I created the carbon fiber vest and belt, then put everything together. Some major challenges I faced during this milestone were finding the proper technique for cutting carbon fiber. As shown in my Final Milestone Images, my first
 
 
+# Final Milestone Images
+Tinkercad model of a slide buckle from the gallery  
+<img width="572" height="387" alt="image" src="https://github.com/user-attachments/assets/343027a4-8402-4b53-bad3-6cef7c388d2b" />
+
+
 
 # Second Milestone
 
@@ -49,6 +54,10 @@ Circuits + circuit boxes attached to foam pads
 <img width="300" height="300" alt="unnamed (3)" src="https://github.com/user-attachments/assets/c2c9c85c-b16c-4ebd-a0f2-7ad14e73316c" />  
 3D printed angled circuit box demonstration  
 <img width="300" height="300" alt="unnamed (5)" src="https://github.com/user-attachments/assets/cca0a0b0-0bef-489c-b8c0-cdd0888a5400" />  
+
+
+
+
 
 
 
