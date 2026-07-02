@@ -169,7 +169,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Jecery Carbon Fiber Sheet (6.5 ft by 12") | What the item is used for | $Price | <a href="https://www.amazon.com/Carbon-Structural-Reinforcement-Concrete-Basements/dp/B0BCNQXN7D/ref=sr_1_3?dib=eyJ2IjoiMSJ9.5jhn41WqYeKujVHiGVecwfkUfqQYYbgRIF7WNXmjvuixjSs6XK_rkHeXjqVV6KR7jWmVBuqd1z1vGzuOBVala5uGrbrZspjYq1LmIVYrKJ2a8iz4fjRGoZ16H16Ucagkj_aDye1qjrMld7lEz7vm486fsrOY503VmtlC3Ys-3TgbdoVG2bUF6six9Im2xtESyfnQU6AhL6hVeKqczENSduKy2Q6TdgROQ8uLklCwiDw.cgT39aujoABoP_FB11y_cl7YQIAcMU8uS1cb3b2_7Bc&dib_tag=se&keywords=fiber%2Bsheet&qid=1782257577&sr=8-3&th=1"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
