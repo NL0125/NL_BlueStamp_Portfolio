@@ -135,8 +135,8 @@ void loop() {
   digitalWrite(trigPin, LOW);
   //Serial.println("Sent signal");
   
-  duration = pulseIn(echoPin, HIGH,30000);/*the echo pin is set to High upon the exit of the sound wave, and starts measuring once it is set to High. When the echo pin recieves the noise it sent, it switches to low and the pulseIn function records the time period between High to Low in microseconds*/
-  cm = (duration * 0.0343)/2;//conversion of speed of sound to cm/microsecond, to multiply it by duration multiseconds for distance
+  duration = pulseIn(echoPin, HIGH,30000); /*the echo pin is set to High upon the exit of the sound wave, and starts measuring once it is set to High. When the echo pin recieves the noise that was sent, it switches to low and the pulseIn function records the time period between High to Low states in microseconds*/
+  cm = (duration * 0.0343)/2; //conversion of speed of sound to cm/microsecond, to multiply it by duration multiseconds for distance
   if (cm <= 150 && cm > 2){
     delaylay = map(cm,2,150,50,800);
     //Serial.println("Got past setting delay");
