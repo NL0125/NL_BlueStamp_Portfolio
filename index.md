@@ -90,7 +90,7 @@ First sensor circuit iteration (Breadboard didn't work)
 Second sensor circuit iteration (Working)  
 <img width="300" height="300" alt="1047" src="https://github.com/user-attachments/assets/ac43efb1-47c1-4283-91ac-f7ad0df3dac9" />  
 Two soldered-to-perfboard circuits  
-<img width="3000" height="4000" alt="613837293-d0801220-992b-4303-ad26-2289bcae95bd" src="https://github.com/user-attachments/assets/2955414a-123d-482d-8672-03de137cecd1" />  
+<img width="300" height="300" alt="613837293-d0801220-992b-4303-ad26-2289bcae95bd" src="https://github.com/user-attachments/assets/2955414a-123d-482d-8672-03de137cecd1" />  
 
 Second circuit wiring adjustments for tactile feedback  
 <img width="300" height="350" alt="unnamed (2)" src="https://github.com/user-attachments/assets/54dadf02-5499-49a9-bfd2-b787fcaed53e" />  
