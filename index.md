@@ -52,6 +52,11 @@ Circuits + circuit boxes attached to foam pads
 <img width="300" height="300" alt="unnamed (3)" src="https://github.com/user-attachments/assets/c2c9c85c-b16c-4ebd-a0f2-7ad14e73316c" />  
 3D printed angled circuit box demonstration  
 <img width="300" height="300" alt="unnamed (5)" src="https://github.com/user-attachments/assets/cca0a0b0-0bef-489c-b8c0-cdd0888a5400" />  
+Foam padded circuits attached to vest  
+<img width="300" height="300" alt="1087" src="https://github.com/user-attachments/assets/9d66c3f5-fe8a-4180-b0b0-1ef80394ec4a" />
+
+
+
 
 
 
