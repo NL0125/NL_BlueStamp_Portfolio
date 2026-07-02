@@ -41,11 +41,9 @@ Tinkercad model of a slide buckle from the gallery
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0vOc4PQThgg?si=_IhgSQ82rfejddvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For my second milestone, I designed the layout of where each component I created would go on the carbon fiber vest I would make. During this process, I also 3D printed circuit boxes for ease of gluing each circuit to foam pads (that would be glued onto the carbon fiber).
+For my second milestone, I designed the layout of where each component I created would go on the carbon fiber vest I would make. During this process, I also 3D printed circuit boxes for ease of gluing each circuit to foam pads (that would be glued onto the carbon fiber). I then hot glued the circuits onto the carbon fiber vest
 
 # Second Milestone Images
 Schematics for attaching circuits to carbon fiber (to be worn like shown)  
