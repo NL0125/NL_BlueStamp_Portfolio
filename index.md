@@ -35,7 +35,7 @@ For my final milestone, I created the carbon fiber vest and belt, then put every
 
 # Final Milestone Images
 Tinkercad model of a slide buckle from the gallery  
-<img width="572" height="387" alt="image" src="https://github.com/user-attachments/assets/343027a4-8402-4b53-bad3-6cef7c388d2b" />
+<img width="572" height="387" alt="image" src="https://github.com/user-attachments/assets/343027a4-8402-4b53-bad3-6cef7c388d2b" />  
 *NOTE: My 3D printed buckle closed fine but now the pieces are stuck together, I didn't use the buckle because I got more velcro.*
 
 
