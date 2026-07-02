@@ -29,7 +29,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
-For my final milestone, I created the carbon fiber vest and belt, then put everything together. Some major challenges I faced during this milestone were finding the proper technique for cutting carbon fiber. As shown in my Final Milestone Images, my first
+For my final milestone, I created the carbon fiber belt, then put everything together. A major challenge I faced during this milestone was the fact that one of my sensors broke and provided false readings, meaning I had to redo the circuit. 
 
 
 # Final Milestone Images
@@ -37,7 +37,7 @@ Tinkercad model of a slide buckle from the gallery
 <img width="572" height="387" alt="image" src="https://github.com/user-attachments/assets/343027a4-8402-4b53-bad3-6cef7c388d2b" />  
 *NOTE: My 3D printed buckle closed fine but now the pieces are stuck together, I didn't use the buckle because I got more velcro.*  
 Carbon fiber belt with angled circuit attached to it  
-<img width="400" height="244" alt="unnamed (8)" src="https://github.com/user-attachments/assets/ebb4c0ca-a9a2-40b7-ab59-9724be6a96a0" />
+<img width="400" height="244" alt="unnamed (8)" src="https://github.com/user-attachments/assets/ebb4c0ca-a9a2-40b7-ab59-9724be6a96a0" />  
 
 
 
