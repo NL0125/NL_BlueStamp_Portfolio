@@ -39,7 +39,7 @@ Tinkercad model of a slide buckle from the gallery
 Carbon fiber belt with angled circuit attached to it  
 <img width="400" height="244" alt="unnamed (8)" src="https://github.com/user-attachments/assets/ebb4c0ca-a9a2-40b7-ab59-9724be6a96a0" />  
 Finalized vest and belt  
-<img width="4000" height="3000" alt="unnamed (9)" src="https://github.com/user-attachments/assets/915ea9c1-fe1a-41e8-a0f8-700b9762acb8" />  
+<img width="300" height="300" alt="unnamed (9)" src="https://github.com/user-attachments/assets/915ea9c1-fe1a-41e8-a0f8-700b9762acb8" />  
 
 
 
