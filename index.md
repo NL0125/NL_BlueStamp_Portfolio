@@ -29,7 +29,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
-For my final milestone, I created the carbon fiber belt, then put everything together. A major challenge I faced during this milestone was the fact that one of my sensors broke and provided false readings, meaning I had to redo the circuit. 
+For my final milestone, I created the carbon fiber belt, then hot glued all the components together. A major challenge I faced during this milestone was the fact that one of my sensors broke and provided false readings, meaning I had to redo the circuit. 
 
 
 # Final Milestone Images
@@ -103,6 +103,7 @@ Second circuit wiring adjustments for tactile feedback
 # Schematics 
 Milestone 1 Circuit Diagram with LED rather than buzzer for visual response (ease of debugging)  
 <img width="490" height="290" alt="image" src="https://github.com/user-attachments/assets/768dcc3c-f00b-452f-8e8b-f1b53e2bffa7" />
+In this circuit, the code first triggers Pin 14 for a short burst. This causes sound waves to be emitted from the Transmitter side of the ultrasonic sensor. Simultaneously, the ultrasonic sensor sets its ECHO pin to HIGH because its TRIG pin (corresponding to Pin 14) was set to HIGH. The Pro Micro then detects this change via its Pin 15, and the PulseIn function uses this change to know when to start recording time. Then, the Reciever end of the ultrasonic sensor recieves the reflected sound, setting its ECHO pin to LOW again. The Pro Micro detects this change (again with Pin 15), and records the time interval. It then does set conversions using the speed of sound and time recorded, getting a distance. Conditionals are then applied to the distance, triggering Pin 16 at varying intervals to turn the buzzer or motor (LED in this diagram) on and off at different frequencies.
 
 
 # Code
