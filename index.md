@@ -182,5 +182,5 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Miady Battery Pack (Black) | Acts as the power source for all 3 circuits | $19.99 for 2 | <a href="https://www.amazon.com/Miady-10000mAh-Portable-Charger-Charging/dp/B07XFBN7HX?th=1"> Link </a> |
 | KiwiBird USB Splitter (1 in, 3 out) | Allows the single Miady Battery Pack to power all 3 pro micros/circuits | $7.99 | <a href="https://www.amazon.com/Splitter-Transfer-Charging-Extension-Keyboard/dp/B0DGTJ539B"> Link </a> |
 # Other Resources
-<a href="https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro" Sparkfun Guide for Pro Micro </a>
+[Sparkfun Guide for Pro Micro](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro)
 
