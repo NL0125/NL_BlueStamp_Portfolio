@@ -181,10 +181,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Green PCB Board (40 mm by 60 mm) | The circuit is soldered onto these perfboards for more permanence than a breadboarded circuit | $7.63 x 3 | <a href="https://www.amazon.com/Aexit-Prototyping-Universal-Printed-Circboard/dp/B07D2DTL99"> Link </a> |
 | Miady Battery Pack (Black) | Acts as the power source for all 3 circuits | $19.99 for 2 | <a href="https://www.amazon.com/Miady-10000mAh-Portable-Charger-Charging/dp/B07XFBN7HX?th=1"> Link </a> |
 | KiwiBird USB Splitter (1 in, 3 out) | Allows the single Miady Battery Pack to power all 3 pro micros/circuits | $7.99 | <a href="https://www.amazon.com/Splitter-Transfer-Charging-Extension-Keyboard/dp/B0DGTJ539B"> Link </a> |
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+# Other Resources
+<a href="https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro" Sparkfun Guide for Pro Micro </a>
 
-To watch the BSE tutorial on how to create a portfolio, click here.
