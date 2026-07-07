@@ -41,8 +41,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
-For my final milestone, I created the carbon fiber belt, then hot glued all the components together. A major challenge I faced during this milestone was the fact that one of my sensors broke and provided false readings, meaning I had to redo the circuit. 
-
+For my final milestone, I created the carbon fiber belt, then hot glued all the components together. 
 
 # Final Milestone Images
 Tinkercad model of a slide buckle from the gallery  
@@ -52,6 +51,8 @@ Carbon fiber belt with angled circuit attached to it
 <img width="400" height="244" alt="unnamed (8)" src="https://github.com/user-attachments/assets/ebb4c0ca-a9a2-40b7-ab59-9724be6a96a0" />  
 Finalized vest and belt  
 <img width="400" height="300" alt="unnamed (9)" src="https://github.com/user-attachments/assets/915ea9c1-fe1a-41e8-a0f8-700b9762acb8" />  
+
+# Final Milestone Challenges
 
 
 
@@ -73,8 +74,9 @@ Roll of carbon fiber from Amazon
 <img width="300" height="300" alt="unnamed (7)" src="https://github.com/user-attachments/assets/531f6f33-1b24-438e-9f12-57cb6a24706f" />
 
 Foam padded circuits attached to vest  
-<img width="300" height="300" alt="1087" src="https://github.com/user-attachments/assets/9d66c3f5-fe8a-4180-b0b0-1ef80394ec4a" />
-
+<img width="300" height="300" alt="1087" src="https://github.com/user-attachments/assets/9d66c3f5-fe8a-4180-b0b0-1ef80394ec4a" />  
+# Milestone 2 Challenges
+A major challenge I faced for my second milestone was figuring out how to properly cut the carbon fiber without having the ends fray. Fraying was prevented with tapeo on the ends that I cut.
 
 
 
@@ -178,7 +180,7 @@ void loop() {
 
 *NOTE: The code for the vibration motor circuits varies in the fact that it sets PIN 16 to HIGH for 150 milliseconds rather than 10 milliseconds. This is so the weight in the motor is spun for long enough that it shakes the motor and produces vibration.*
 
-# Challenges
+# Milestone 1 Challenges
 For the second circuit created, the vibration motor to provide tactile rather than audible feedback was not working very well, most likely due to bad soldered connections. After testing if the motor worked and resoldering some joints for better connectivity, the motor worked. However, the strength of the motor wasn't enough to get the wearer's attention, so I moved on to CADing circuit boxes for the two components I made and ordering materials. Afterwards, I found out my vibration motor circuit had a code issue and made the period at which the motor vibrates longer than the period the buzzer would take to beep (I recycled buzzer code for motor code). It turns out that I was right, so now the motor both works consistently and produces enough of a vibration to be felt through cloth (the earlier period for the buzzer wasn't long enough for the motor to get spinning if the distance was past a certain point because of the added delay).
 # Bill of Materials
 
