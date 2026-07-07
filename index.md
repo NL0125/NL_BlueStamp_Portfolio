@@ -1,7 +1,7 @@
 
 # Assistive Smart Jacket
 
-Sensors send out sound and record the time it takes for the sound waves' echoes to return to the sensors' receptors. The time recorded can be used to find the distance an object is from the sensor in the direction of the emitted sound. When the distance of an object from the sensor passes a certain threshold, buzzers are triggered (faster frequency corresponds with closer distance). 
+Sensors send out sound and record the time it takes for the sound waves' echoes to return to the sensors' receptors. The time recorded can be used to find the distance an object is from the sensor in the direction of the emitted sound (D = R * T, so with time and the speed of sound we can find distance). When the distance of an object from the sensor passes a certain threshold, buzzers are triggered (faster frequency corresponds with closer distance). 
 
 
 <!---You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:--> 
