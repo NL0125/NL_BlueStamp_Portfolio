@@ -196,6 +196,7 @@ For the second circuit created, the vibration motor to provide tactile rather th
 | Green PCB Board (40 mm by 60 mm) | The circuit is soldered onto these perfboards for more permanence than a breadboarded circuit | $7.63 x 3 | <a href="https://www.amazon.com/Aexit-Prototyping-Universal-Printed-Circboard/dp/B07D2DTL99"> Link </a> |
 | Miady Battery Pack (Black) | Acts as the power source for all 3 circuits | $19.99 for 2 | <a href="https://www.amazon.com/Miady-10000mAh-Portable-Charger-Charging/dp/B07XFBN7HX?th=1"> Link </a> |
 | KiwiBird USB Splitter (1 in, 3 out) | Allows the single Miady Battery Pack to power all 3 pro micros/circuits | $7.99 | <a href="https://www.amazon.com/Splitter-Transfer-Charging-Extension-Keyboard/dp/B0DGTJ539B"> Link </a> |
+| 3 Pin Mini Slide Switch (Double Throw) | Opens/closes the LED circuit on the belt | $2.37 for 3 | <a href="https://www.pololu.com/product/1408"> Link </a> |
 # Other Resources
 [Sparkfun Guide for Pro Micro](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro)  
 [Resistance Calculator](https://www.calculator.net/resistor-calculator.html?bandnum=4&band1=brown&band2=black&band3=black&multiplier=brown&tolerance=gold&temperatureCoefficient=brown&type=c&x=Calculate)
