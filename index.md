@@ -16,7 +16,16 @@ Sensors send out sound and record the time it takes for the sound waves' echoes 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
-  
+
+
+
+
+# Modifications
+
+For one of my modifications, I made a simple LED circuit that can be toggled on and off with a switch. I then designed a circuit box and another bump to be put near the power switch.
+This is a diagram of the circuit I made.
+<img width="374" height="465" alt="Screenshot 2026-07-07 10 15 13 AM" src="https://github.com/user-attachments/assets/52347ab6-47e4-4111-9e47-e91adbbe4b0f" />
+
 # Final Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
