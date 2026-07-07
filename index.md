@@ -73,7 +73,7 @@ Finalized vest and belt
 
 For my second milestone, I designed the layout of where each component I created would go on the carbon fiber vest I would make. During this process, I also 3D printed circuit boxes for ease of gluing each circuit to foam pads (that would be glued onto the carbon fiber). I then hot glued the circuits onto the carbon fiber vest  
 
-A major challenge I faced for my second milestone was figuring out how to properly cut the carbon fiber without having the ends fray. Fraying was prevented with tapeo on the ends that I cut.
+A major challenge I faced for my second milestone was figuring out how to properly cut the carbon fiber without having the ends fray. Fraying was prevented with tape on the ends that I cut.
 
 # Second Milestone Images
 Schematics for attaching circuits to carbon fiber (to be worn like shown)  
