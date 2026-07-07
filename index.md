@@ -191,4 +191,4 @@ For the second circuit created, the vibration motor to provide tactile rather th
 | KiwiBird USB Splitter (1 in, 3 out) | Allows the single Miady Battery Pack to power all 3 pro micros/circuits | $7.99 | <a href="https://www.amazon.com/Splitter-Transfer-Charging-Extension-Keyboard/dp/B0DGTJ539B"> Link </a> |
 # Other Resources
 [Sparkfun Guide for Pro Micro](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro)
-
+[Resistance Calculator](https://www.calculator.net/resistor-calculator.html?bandnum=4&band1=brown&band2=black&band3=black&multiplier=brown&tolerance=gold&temperatureCoefficient=brown&type=c&x=Calculate)
