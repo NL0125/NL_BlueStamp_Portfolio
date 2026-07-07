@@ -24,7 +24,10 @@ Sensors send out sound and record the time it takes for the sound waves' echoes 
 
 For one of my modifications, I made a simple LED circuit that can be toggled on and off with a switch. I then designed a circuit box and another bump to be put near the power switch.  
 This is a diagram of the circuit I made.  
-<img width="374" height="465" alt="Screenshot 2026-07-07 10 15 13 AM" src="https://github.com/user-attachments/assets/52347ab6-47e4-4111-9e47-e91adbbe4b0f" />
+<img width="374" height="465" alt="Screenshot 2026-07-07 10 15 13 AM" src="https://github.com/user-attachments/assets/52347ab6-47e4-4111-9e47-e91adbbe4b0f" />  
+Actual LED circuit using a jumbo LED  
+<img width="300" height="300" alt="unnamed (10)" src="https://github.com/user-attachments/assets/e3298832-a82a-4381-94fc-75bd0a5707d8" />
+
 
 # Final Milestone
 
