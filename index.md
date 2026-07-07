@@ -101,7 +101,9 @@ Right now, I have one of the four sensor-buzzer-circuits for my project.
 
 To complete the project, I must design where this circuit goes on a jacket/carbon fiber sheet, then actually obtain and cut out the carbon fiber, and then attach the various parts onto the carbon fiber vest and belt.
 
-Some challenges I faced during the first milestone were a faulty breadboard that required lots of debugging to discover, alongside compatability issues between my chromebook and the pro micro board. These connectivity issues were solved when I used my Windows laptop and the offline arduino IDE rather than chromebook and arduino cloud IDE. 
+Some challenges I faced during the first milestone were a faulty breadboard that required lots of debugging to discover, alongside compatability issues between my chromebook and the pro micro board. These connectivity issues were solved when I used my Windows laptop and the offline Arduino IDE rather than chromebook and Arduino Cloud IDE. 
+
+For the second circuit created, the vibration motor to provide tactile rather than audible feedback was not working very well, most likely due to bad soldered connections. After testing if the motor worked and resoldering some joints for better connectivity, the motor worked. However, the strength of the motor wasn't enough to get the wearer's attention, so I moved on to CADing circuit boxes for the two components I made and ordering materials. Afterwards, I found out my vibration motor circuit had a code issue and made the period at which the motor vibrates longer than the period the buzzer would take to beep (I recycled buzzer code for motor code). It turns out that I was right, so now the motor both works consistently and produces enough of a vibration to be felt through cloth (the earlier period for the buzzer wasn't long enough for the motor to get spinning if the distance was past a certain point because of the added delay).
 
 # First Milestone Images
 First sensor circuit iteration (Breadboard didn't work)  
@@ -182,8 +184,6 @@ void loop() {
 
 *NOTE: The code for the vibration motor circuits varies in the fact that it sets PIN 16 to HIGH for 150 milliseconds rather than 10 milliseconds. This is so the weight in the motor is spun for long enough that it shakes the motor and produces vibration.*
 
-# Milestone 1 Challenges
-For the second circuit created, the vibration motor to provide tactile rather than audible feedback was not working very well, most likely due to bad soldered connections. After testing if the motor worked and resoldering some joints for better connectivity, the motor worked. However, the strength of the motor wasn't enough to get the wearer's attention, so I moved on to CADing circuit boxes for the two components I made and ordering materials. Afterwards, I found out my vibration motor circuit had a code issue and made the period at which the motor vibrates longer than the period the buzzer would take to beep (I recycled buzzer code for motor code). It turns out that I was right, so now the motor both works consistently and produces enough of a vibration to be felt through cloth (the earlier period for the buzzer wasn't long enough for the motor to get spinning if the distance was past a certain point because of the added delay).
 # Bill of Materials
 
 | **Part** | **Note** | **Price** | **Link** |
