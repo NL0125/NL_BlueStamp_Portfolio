@@ -197,6 +197,7 @@ For the second circuit created, the vibration motor to provide tactile rather th
 | Miady Battery Pack (Black) | Acts as the power source for all 3 circuits | $19.99 for 2 | <a href="https://www.amazon.com/Miady-10000mAh-Portable-Charger-Charging/dp/B07XFBN7HX?th=1"> Link </a> |
 | KiwiBird USB Splitter (1 in, 3 out) | Allows the single Miady Battery Pack to power all 3 pro micros/circuits | $7.99 | <a href="https://www.amazon.com/Splitter-Transfer-Charging-Extension-Keyboard/dp/B0DGTJ539B"> Link </a> |
 | 3 Pin Mini Slide Switch (Double Throw) | Opens/closes the LED circuit on the belt | $2.37 for 3 | <a href="https://www.pololu.com/product/1408"> Link </a> |
+| Gikfun 10mm Jumbo LED (Assorted) | Is powered by the 3V cell battery to alert others of the user's presence | $8.58 for 20 | <a href="[https://www.pololu.com/product/1408](https://gikfun.com/products/gikfun-10mm-led-emitting-diodes-light-lamp-diffused-f10-round-led-for-arduino-pack-of-20pcs)"> Link </a> |
 # Other Resources
 [Sparkfun Guide for Pro Micro](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro)  
 [Resistance Calculator](https://www.calculator.net/resistor-calculator.html?bandnum=4&band1=brown&band2=black&band3=black&multiplier=brown&tolerance=gold&temperatureCoefficient=brown&type=c&x=Calculate)
