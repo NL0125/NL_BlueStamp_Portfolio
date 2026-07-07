@@ -41,7 +41,15 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
-For my final milestone, I created the carbon fiber belt, then hot glued all the components together. 
+For my final milestone, I created the carbon fiber belt, then hot glued all the components together.  
+
+A challenge I faced for this milestone was one of my ultrasonic sensors breaking and needing replacement. I also struggled with getting the vest sensors to stay upright, organizing the various cables powering the circuits, and figuring out if my battery pack was faulty or not.  
+
+My solutions to these challenges were to make the velcro connections between the two vest sensors cover more area, holding the two sides more firmly. I then used electric tape to tie excess parts of the cables together and simply replaced and rewired the broken ultrasonic sensor circuit.
+
+Overall, my biggest challenges at Bluestamp were during the first two weeks, where I had to debug a myriad of components (such as Arduino Cloud and Pro Micro incompatability and every single ultrasonic sensor circuit). I had to resolder many connections I originally thought were sound and find out whether circuits didn't work because of wiring or dead batteries or broken components. This took a lot more time and effort than any other part of the program.  
+
+My biggest triumphs at Bluestamp were every time I powered a circuit and it worked both consistently and the way I wanted it to. Although my project requires a lot of physical design (material and structural), the most important parts are the circuits and arduino boards.
 
 # Final Milestone Images
 Tinkercad model of a slide buckle from the gallery  
@@ -63,7 +71,9 @@ Finalized vest and belt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0vOc4PQThgg?si=_IhgSQ82rfejddvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For my second milestone, I designed the layout of where each component I created would go on the carbon fiber vest I would make. During this process, I also 3D printed circuit boxes for ease of gluing each circuit to foam pads (that would be glued onto the carbon fiber). I then hot glued the circuits onto the carbon fiber vest
+For my second milestone, I designed the layout of where each component I created would go on the carbon fiber vest I would make. During this process, I also 3D printed circuit boxes for ease of gluing each circuit to foam pads (that would be glued onto the carbon fiber). I then hot glued the circuits onto the carbon fiber vest  
+
+A major challenge I faced for my second milestone was figuring out how to properly cut the carbon fiber without having the ends fray. Fraying was prevented with tapeo on the ends that I cut.
 
 # Second Milestone Images
 Schematics for attaching circuits to carbon fiber (to be worn like shown)  
@@ -77,8 +87,8 @@ Roll of carbon fiber from Amazon
 
 Foam padded circuits attached to vest  
 <img width="300" height="300" alt="1087" src="https://github.com/user-attachments/assets/9d66c3f5-fe8a-4180-b0b0-1ef80394ec4a" />  
-# Milestone 2 Challenges
-A major challenge I faced for my second milestone was figuring out how to properly cut the carbon fiber without having the ends fray. Fraying was prevented with tapeo on the ends that I cut.
+
+
 
 
 
