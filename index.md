@@ -54,6 +54,8 @@ Overall, my biggest challenges at Bluestamp happened during the first two weeks,
 
 My biggest triumphs at Bluestamp were every time I powered a circuit and it worked both consistently and the way I wanted it to. Although my project requires a lot of physical design (material and structural), the most important parts are the circuits and arduino boards.
 
+Key topics I learned about at Bluestamp were how to breadboard/perfboard, solder, how to code in Arduino IDE, how to Tinkercad and export the cads to .OBJ, how to use a caliper
+
 # Final Milestone Images
 Tinkercad model of a slide buckle from the gallery  
 <img width="572" height="387" alt="image" src="https://github.com/user-attachments/assets/343027a4-8402-4b53-bad3-6cef7c388d2b" />  
@@ -140,7 +142,10 @@ Second circuit wiring adjustments for tactile feedback
 # Schematics 
 Milestone 1 Circuit Diagram with LED rather than buzzer for visual response (ease of debugging)  
 <img width="490" height="290" alt="image" src="https://github.com/user-attachments/assets/768dcc3c-f00b-452f-8e8b-f1b53e2bffa7" />  
-In this circuit, the code first triggers Pin 14 for a short burst. This causes sound waves to be emitted from the Transmitter side of the ultrasonic sensor. Simultaneously, the ultrasonic sensor sets its ECHO pin to HIGH because its TRIG pin (corresponding to Pin 14) was set to HIGH. The Pro Micro then detects this change via its Pin 15, and the PulseIn function uses this change to know when to start recording time. Then, the Reciever end of the ultrasonic sensor recieves the reflected sound, setting its ECHO pin to LOW again. The Pro Micro detects this change (again with Pin 15), and records the time interval. It then does set conversions using the speed of sound and time recorded, getting a distance. Conditionals are then applied to the distance, triggering Pin 16 at varying intervals to turn the buzzer or motor (LED in this diagram) on and off at different frequencies.
+In this circuit, the code first triggers Pin 14 for a short burst. This causes sound waves to be emitted from the Transmitter side of the ultrasonic sensor. Simultaneously, the ultrasonic sensor sets its ECHO pin to HIGH because its TRIG pin (corresponding to Pin 14) was set to HIGH. The Pro Micro then detects this change via its Pin 15, and the PulseIn function uses this change to know when to start recording time. Then, the Reciever end of the ultrasonic sensor recieves the reflected sound, setting its ECHO pin to LOW again. The Pro Micro detects this change (again with Pin 15), and records the time interval. It then does set conversions using the speed of sound and time recorded, getting a distance. Conditionals are then applied to the distance, triggering Pin 16 at varying intervals to turn the buzzer or motor (LED in this diagram) on and off at different frequencies.  
+Tinkercad model of a circuit box and assistive bump  
+<img width="788" height="459" alt="Screenshot 2026-07-07 10 10 01 AM" src="https://github.com/user-attachments/assets/68d00d90-897a-4b94-8001-fe4ae1ec5f88" />  
+This is the LED circuit box and a bump to help the wearer find the power switch
 
 
 # Code
