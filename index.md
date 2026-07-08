@@ -28,7 +28,7 @@ This is a diagram of the circuit I made.
 Actual LED circuit using a jumbo LED  
 <img width="300" height="400" alt="unnamed (10)" src="https://github.com/user-attachments/assets/e3298832-a82a-4381-94fc-75bd0a5707d8" />  
 LED circuit in circuit box with assistive bump (attached to belt)  
-<img width="3000" height="4000" alt="unnamed (11)" src="https://github.com/user-attachments/assets/2e9b7c5a-451f-4e82-b260-266c84dcd71a" />  
+<img width="300" height="400" alt="unnamed (11)" src="https://github.com/user-attachments/assets/2e9b7c5a-451f-4e82-b260-266c84dcd71a" />  
 
 
 
