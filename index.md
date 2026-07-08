@@ -145,7 +145,7 @@ In this circuit, the code first triggers Pin 14 for a short burst. This causes s
 
 # Code
 
-Code with the Arduino IDE  
+Code in Arduino IDE  
 
 ```c++
 /* Code to make buzzer buzz at various frequencies based on calculated distance of an object from sensor
