@@ -27,6 +27,9 @@ This is a diagram of the circuit I made.
 <img width="374" height="465" alt="Screenshot 2026-07-07 10 15 13 AM" src="https://github.com/user-attachments/assets/52347ab6-47e4-4111-9e47-e91adbbe4b0f" />  
 Actual LED circuit using a jumbo LED  
 <img width="300" height="400" alt="unnamed (10)" src="https://github.com/user-attachments/assets/e3298832-a82a-4381-94fc-75bd0a5707d8" />  
+LED circuit in circuit box with assistive bump (attached to belt)  
+<img width="3000" height="4000" alt="unnamed (11)" src="https://github.com/user-attachments/assets/2e9b7c5a-451f-4e82-b260-266c84dcd71a" />  
+
 
 
 # Final Milestone
@@ -47,7 +50,7 @@ A challenge I faced for this milestone was one of my ultrasonic sensors breaking
 
 My solutions to these challenges were to make the velcro connections between the two vest sensors cover more area, holding the two sides more firmly. I then used electric tape to tie excess parts of the cables together and simply replaced and rewired the broken ultrasonic sensor circuit.
 
-Overall, my biggest challenges at Bluestamp were during the first two weeks, where I had to debug a myriad of components (such as Arduino Cloud and Pro Micro incompatability and every single ultrasonic sensor circuit). I had to resolder many connections I originally thought were sound and find out whether circuits didn't work because of wiring or dead batteries or broken components. This took a lot more time and effort than any other part of the program.  
+Overall, my biggest challenges at Bluestamp happened during the first two weeks, where I had to debug a myriad of components (such as Arduino Cloud and Pro Micro incompatability and checking every single ultrasonic sensor circuit). I had to resolder many connections I originally thought were sound and find out whether circuits didn't work because of wiring or dead batteries or broken components. This took a lot more time and effort than any other part of my project.  
 
 My biggest triumphs at Bluestamp were every time I powered a circuit and it worked both consistently and the way I wanted it to. Although my project requires a lot of physical design (material and structural), the most important parts are the circuits and arduino boards.
 
@@ -62,7 +65,6 @@ Finalized vest and belt
 
 
 
-# Final Milestone Challenges
 
 
 
