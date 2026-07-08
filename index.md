@@ -143,7 +143,7 @@ Milestone 1 Circuit Diagram with LED rather than buzzer for visual response (eas
 In this circuit, the code first triggers Pin 14 for a short burst. This causes sound waves to be emitted from the Transmitter side of the ultrasonic sensor. Simultaneously, the ultrasonic sensor sets its ECHO pin to HIGH because its TRIG pin (corresponding to Pin 14) was set to HIGH. The Pro Micro then detects this change via its Pin 15, and the PulseIn function uses this change to know when to start recording time. Then, the Reciever end of the ultrasonic sensor recieves the reflected sound, setting its ECHO pin to LOW again. The Pro Micro detects this change (again with Pin 15), and records the time interval. It then does set conversions using the speed of sound and time recorded, getting a distance. Conditionals are then applied to the distance, triggering Pin 16 at varying intervals to turn the buzzer or motor (LED in this diagram) on and off at different frequencies.  
 Tinkercad model of a circuit box and assistive bump  
 <img width="788" height="459" alt="Screenshot 2026-07-07 10 10 01 AM" src="https://github.com/user-attachments/assets/68d00d90-897a-4b94-8001-fe4ae1ec5f88" />  
-This is the LED circuit box and a bump to help the wearer find the power switch  
+
 
 
 # Code
