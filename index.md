@@ -38,11 +38,7 @@ LED circuit in circuit box with assistive bump (attached to belt)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6k6-6P7Kwn0?si=bauAouCqRmntQMoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+
 
 For my final milestone, I created the carbon fiber belt, then hot glued all the components together.  
 
@@ -54,7 +50,9 @@ Overall, my biggest challenges at Bluestamp happened during the first two weeks,
 
 My biggest triumphs at Bluestamp were every time I powered a circuit and it worked both consistently and the way I wanted it to. Although my project requires a lot of physical design (material and structural), the most important parts are the circuits and arduino boards.
 
-Key topics I learned about at Bluestamp were how to breadboard/perfboard, solder, how to code in Arduino IDE, how to Tinkercad and export the cads to .OBJ, how to use a caliper
+Key topics I learned about at Bluestamp were how to breadboard/perfboard, solder, how to code in Arduino IDE, how to use Tinkercad and export the cads to .OBJ, and how to use a caliper.
+
+After Bluestamp, I hope to learn more about different jobs that require engineers so I will know my options once I go to college.
 
 # Final Milestone Images
 Tinkercad model of a slide buckle from the gallery  
