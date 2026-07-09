@@ -1,5 +1,5 @@
 
-# Assistive Smart Jacket
+# Assistive Vest and Belt
 
 Sensors send out sound and record the time it takes for the sound waves' echoes to return to the sensors' receptors. The time recorded can be used to find the distance an object is from the sensor in the direction of the emitted sound (D = R * T, so with time and the speed of sound we can find distance). As the distance decreases, the Arduino IDE map function decreases a delay variable proportionally, causing the motors or buzzers to vibrate or buzz at increasing frequencies when distance decreases.
 
