@@ -29,7 +29,7 @@ LED circuit in circuit box with assistive bump (attached to belt)
 
 Another one of my modifications was implementing a third ultrasonic sensor circuit on a carbon fiber belt (Same belt from final milestone goal), as the original project only had 2 sensor circuits which were both at the chest area.
 
-My most prominent modification is making the entire device wearable with any kind of clothing, while the original project required the user to wear the specific jacket the sensors were attached to. This modification was done by attaching the circuits to the handmade carbon fiber vest and belt shown in the milestones below,
+My most prominent modification is making the entire device wearable with any kind of clothing, while the original project required the user to wear the specific jacket the sensors were attached to. This modification was done by attaching the circuits to the handmade carbon fiber vest and belt shown in the milestones below, rather than attaching them to a jacket. 
 
 
 
