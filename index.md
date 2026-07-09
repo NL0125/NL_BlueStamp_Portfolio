@@ -11,7 +11,8 @@ Sensors send out sound and record the time it takes for the sound waves' echoes 
 | Nathan Liu | Lynbrook High School | Bio(medical)engineering | Rising Sophomore
 
 
-![Image of Nathan wearing the assistive vest and belt](headstone.md)
+<img width="779" height="1052" alt="PXL_20260709_202656655" src="https://github.com/user-attachments/assets/11cc2c52-afcf-4b5d-9623-61dbc110862a" />
+
 
 
 
