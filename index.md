@@ -82,7 +82,7 @@ Finalized vest and belt
 
 For my second milestone, I designed the layout of where each component I created would go on the carbon fiber vest I would make. During this process, I also 3D printed circuit boxes for ease of gluing each circuit to foam pads (that would be glued onto the carbon fiber). I then hot glued the circuits onto the carbon fiber vest  
 
-A major challenge I faced for my second milestone was figuring out how to properly cut the carbon fiber without having the ends fray. Fraying was prevented with tape on the ends that I cut.
+A major challenge I faced for my second milestone was figuring out how to properly cut the carbon fiber without having the ends fray. Fraying was prevented with tape and hot glue on the ends that I cut.
 
 # Second Milestone Images
 Schematics for attaching circuits to carbon fiber (to be worn like shown)  
@@ -124,7 +124,7 @@ Tinkercad circuit boxes
 
 For my first milestone, I breadboarded a circuit that uses an ultrasonic sensor, buzzer, and pro micro board. I then wrote code for the circuit to buzz/beep at frequencies directly proportional to the distance an object is calculated to be from the buzzer. This warns visually impaired people about obstacles in front of their body, as well as telling them the severity of their potential collision.
 
-Right now, I have one of the four sensor-buzzer-circuits for my project.
+Right now, I have soldered one of the three sensor-buzzer-circuits for my project.
 
 To complete the project, I must design where this circuit goes on a jacket/carbon fiber sheet, then actually obtain and cut out the carbon fiber, and then attach the various parts onto the carbon fiber vest and belt.
 
