@@ -139,10 +139,10 @@ Second circuit wiring adjustments for tactile feedback
 
 
 # Schematics 
-<p align="center"
+<p align="center">
 Milestone 1 Circuit Diagram with LED rather than buzzer for visual response (ease of debugging)  
 <img width="943" height="502" alt="Screenshot 2026-07-09 11 09 06 AM" src="https://github.com/user-attachments/assets/6a39f897-2d14-4aa2-b4ef-68dc3bb4bb80" />  
-/p>
+</p>
 
 In this circuit, the code first triggers Pin 14 for a short burst. This causes sound waves to be emitted from the Transmitter side of the ultrasonic sensor. Simultaneously, the ultrasonic sensor sets its ECHO pin to HIGH because its TRIG pin (corresponding to Pin 14) was set to HIGH. The Pro Micro then detects this change via its Pin 15, and the PulseIn function uses this change to know when to start recording time. Then, the Reciever end of the ultrasonic sensor recieves the reflected sound, setting its ECHO pin to LOW again. The Pro Micro detects this change (again with Pin 15), and records the time interval. It then does set conversions using the speed of sound and time recorded, getting a distance. Conditionals are then applied to the distance, triggering Pin 16 at varying intervals to turn the buzzer or motor (LED in this diagram) on and off at different frequencies. (RED = POWER, BLACK = GND, BLUE = LED, ORANGE = TRIG, YELLOW = ECHO)
 
