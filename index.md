@@ -4,9 +4,6 @@
 Sensors send out sound and record the time it takes for the sound waves' echoes to return to the sensors' receptors. The time recorded can be used to find the distance an object is from the sensor in the direction of the emitted sound (D = R * T, so with time and the speed of sound we can find distance). As the distance decreases, the Arduino IDE map function decreases a delay variable proportionally, causing the motors or buzzers to vibrate or buzz at increasing frequencies when distance decreases.
 
 
-<!---You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:--> 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -29,6 +26,10 @@ Actual LED circuit using a jumbo LED
 <img width="300" height="400" alt="unnamed (10)" src="https://github.com/user-attachments/assets/e3298832-a82a-4381-94fc-75bd0a5707d8" />  
 LED circuit in circuit box with assistive bump (attached to belt)  
 <img width="300" height="400" alt="unnamed (11)" src="https://github.com/user-attachments/assets/2e9b7c5a-451f-4e82-b260-266c84dcd71a" />  
+
+Another one of my modifications was implementing a third ultrasonic sensor circuit on a carbon fiber belt (Same belt from final milestone goal), as the original project only had 2 sensor circuits which were both at the chest area.
+
+My most prominent modification is making the entire device wearable with any kind of clothing, while the original project required the user to wear the specific jacket the sensors were attached to. This modification was done by attaching the circuits to the handmade carbon fiber vest and belt shown in the milestones below,
 
 
 
