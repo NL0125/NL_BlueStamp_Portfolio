@@ -37,14 +37,13 @@ Another one of my modifications was implementing a third ultrasonic sensor circu
 
 My most prominent modification is making the entire device wearable with any kind of clothing, while the original project required the user to wear the specific jacket the sensors were attached to. This modification was done by attaching the circuits to the handmade carbon fiber vest and belt shown in the milestones below, rather than attaching them to a jacket. 
 
+It turns out carbon fiber needs resin coating to be more durable and skin-friendly, so my next step would definitely be to use actual resin instead of hot glue.
+
 
 
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6k6-6P7Kwn0?si=bauAouCqRmntQMoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6k6-6P7Kwn0?si=R6Fwf4Q1nLMLhn5_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 For my final milestone, I created the carbon fiber belt, then hot glued all the components together.  
