@@ -93,7 +93,7 @@ Roll of carbon fiber from Amazon
 
 Foam padded circuits attached to vest  
 <img width="300" height="300" alt="1087" src="https://github.com/user-attachments/assets/9d66c3f5-fe8a-4180-b0b0-1ef80394ec4a" />  
-<p align="center">
+<p align="center">  
 Tinkercad circuit boxes  
 <img width="600" height="350" alt="Screenshot 2026-06-26 10 30 34 AM" src="https://github.com/user-attachments/assets/0d8ff0b1-25a8-4a9f-ad18-8143d8bc6b0e" /> 
 </p>
