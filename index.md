@@ -10,9 +10,9 @@ Sensors send out sound and record the time it takes for the sound waves' echoes 
 |:--:|:--:|:--:|:--:|
 | Nathan Liu | Lynbrook High School | Bio(medical)engineering | Rising Sophomore
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+<img width="943" height="502" alt="Screenshot 2026-07-09 11 09 06 AM" src="https://github.com/user-attachments/assets/6a57aa0b-a087-4976-ba9f-d25e7cd9bcd1" />
 
-![Headstone Image](logo.svg)
+
 
 
 
