@@ -22,7 +22,7 @@ Sensors send out sound and record the time it takes for the sound waves' echoes 
 
 # Modifications
 
-For one of my modifications, I made a simple LED circuit that can be toggled on and off with a switch. I then designed a circuit box and another bump to be put near the power switch. 
+For one of my modifications, I made a simple LED circuit that can be toggled on and off with a switch. I then designed a circuit box and another bump to be put near the power switch.   
 
 This is a diagram of the circuit I made.  
 <img width="374" height="465" alt="Screenshot 2026-07-07 10 15 13 AM" src="https://github.com/user-attachments/assets/52347ab6-47e4-4111-9e47-e91adbbe4b0f" />  
@@ -64,8 +64,10 @@ After Bluestamp, I hope to learn more about different jobs that require engineer
 Tinkercad model of a slide buckle from the gallery  
 <img width="572" height="387" alt="image" src="https://github.com/user-attachments/assets/343027a4-8402-4b53-bad3-6cef7c388d2b" />  
 *NOTE: My 3D printed buckle closed fine but now the pieces are stuck together, I didn't use the buckle because I got more velcro.*  
+
 Carbon fiber belt with angled circuit attached to it  
 <img width="400" height="244" alt="unnamed (8)" src="https://github.com/user-attachments/assets/ebb4c0ca-a9a2-40b7-ab59-9724be6a96a0" />  
+
 Finalized vest and belt  
 <img width="400" height="300" alt="unnamed (9)" src="https://github.com/user-attachments/assets/46951a0e-1fb7-4fbc-b5f2-b18346383cee" />
 
@@ -134,8 +136,10 @@ For the second circuit created, the vibration motor to provide tactile rather th
 # First Milestone Images
 First sensor circuit iteration (Breadboard didn't work)  
 <img width="300" height="300" alt="First iteration of sensor circuit" src="https://github.com/user-attachments/assets/b3e93e39-5440-43da-8568-75c1835a48b2" />  
+
 Second sensor circuit iteration (Working)  
 <img width="300" height="300" alt="1047" src="https://github.com/user-attachments/assets/ac43efb1-47c1-4283-91ac-f7ad0df3dac9" />  
+
 Two soldered-to-perfboard circuits  
 <img width="300" height="300" alt="613837293-d0801220-992b-4303-ad26-2289bcae95bd" src="https://github.com/user-attachments/assets/2955414a-123d-482d-8672-03de137cecd1" />  
 
