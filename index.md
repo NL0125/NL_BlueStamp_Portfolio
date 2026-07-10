@@ -165,8 +165,8 @@ Tinkercad model of a circuit box and assistive bump
 </p>
 
 <p align="center">
-Tinkercad model of LED protector
-<img width="505" height="394" alt="Screenshot 2026-07-08 10 18 14 AM" src="https://github.com/user-attachments/assets/4a5b6b51-0c6f-4451-a100-aca96443cf9b" />
+Tinkercad model of LED protector  
+<img width="505" height="394" alt="Screenshot 2026-07-08 10 18 14 AM" src="https://github.com/user-attachments/assets/4a5b6b51-0c6f-4451-a100-aca96443cf9b" />  
 </p>
 
 
