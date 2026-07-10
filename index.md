@@ -62,7 +62,7 @@ My biggest triumphs at Bluestamp were every time I powered a circuit and it work
 
 Key topics I learned about at Bluestamp were how to breadboard/perfboard, solder, how to code in Arduino IDE, how to use Tinkercad and export the cads to .OBJ, and how to use a caliper.
 
-After Bluestamp, I hope to learn more about different jobs that require engineers so I will know my options once I go to college.
+After Bluestamp, I hope to learn more about different jobs that require engineers so I will know more about what options I have after college.
 
 # Final Milestone Images
 Tinkercad model of a slide buckle from the gallery  
