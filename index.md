@@ -234,18 +234,6 @@ void loop() {
 | Gikfun 10mm Jumbo LED (Assorted) | Is powered by the 3V cell battery to alert others of the user's presence | $8.58 for 20 | <a href="https://gikfun.com/products/gikfun-10mm-led-emitting-diodes-light-lamp-diffused-f10-round-led-for-arduino-pack-of-20pcs"> Link </a> |  
 
 
-| **Part** | **Note** | **Price** | **Link** |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 # Other Resources
 [Sparkfun Guide for Pro Micro](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro)  
 [Resistance Calculator](https://www.calculator.net/resistor-calculator.html?bandnum=4&band1=brown&band2=black&band3=black&multiplier=brown&tolerance=gold&temperatureCoefficient=brown&type=c&x=Calculate)
