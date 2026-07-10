@@ -10,8 +10,9 @@ Sensors send out sound and record the time it takes for the sound waves' echoes 
 |:--:|:--:|:--:|:--:|
 | Nathan Liu | Lynbrook High School | Bio(medical)engineering | Rising Sophomore
 
-
+<p align="center">
 <img width="679" height="977.95" alt="PXL_20260709_202656655" src="https://github.com/user-attachments/assets/11cc2c52-afcf-4b5d-9623-61dbc110862a" />
+</p>
 
 
 
