@@ -220,8 +220,8 @@ void loop() {
 
 # Bill of Materials
 
-| **Part** | **Note** | **Price** | **Link** |  
-|:--:|:--:|:--:|:--:|  
+| **Part** | **Note** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
 | Jecery Carbon Fiber Sheet (6.5 ft by 12") (Black) | Material the vest and belt are constructed out of | $16.90 | [Link](https://www.amazon.com/Carbon-Structural-Reinforcement-Concrete-Basements/dp/B0BCNQXN7D/ref=sr_1_3?dib=eyJ2IjoiMSJ9.5jhn41WqYeKujVHiGVecwfkUfqQYYbgRIF7WNXmjvuixjSs6XK_rkHeXjqVV6KR7jWmVBuqd1z1vGzuOBVala5uGrbrZspjYq1LmIVYrKJ2a8iz4fjRGoZ16H16Ucagkj_aDye1qjrMld7lEz7vm486fsrOY503VmtlC3Ys-3TgbdoVG2bUF6six9Im2xtESyfnQU6AhL6hVeKqczENSduKy2Q6TdgROQ8uLklCwiDw.cgT39aujoABoP_FB11y_cl7YQIAcMU8uS1cb3b2_7Bc&dib_tag=se&keywords=fiber%2Bsheet&qid=1782257577&sr=8-3&th=1)|
 | Arduino Pro Micro x 3 | Programmed to send power to pins under certain conditions via Arduino IDE | $22.50 x 3 | [Link](https://www.sparkfun.com/pro-micro-5v-16mhz.html?srsltid=AfmBOoreT8dJajXIeMY9PkLlnRz7L14C2gg2fORkX-7eIy5m_sGlBzjY)|
 | HC-SR04 Ultrasonic Sensor (5V) x 3 | Integrated into circuit to detect obstacles with | $5.25 | [Link](https://www.sparkfun.com/ultrasonic-distance-sensor-hc-sr04.html?srsltid=AfmBOoqIoZSd07gAvZ3IdNIr2XuZvXCTNxYS5L2CjmwcNRo4ROCk-ir9)|
@@ -232,6 +232,19 @@ void loop() {
 | KiwiBird USB Splitter (1 in, 3 out) | Allows the single Miady Battery Pack to power all 3 pro micros/circuits | $7.99 | <a href="https://www.amazon.com/Splitter-Transfer-Charging-Extension-Keyboard/dp/B0DGTJ539B"> Link </a> |
 | 3 Pin Mini Slide Switch (Double Throw) | Opens/closes the LED circuit on the belt | $2.37 for 3 | <a href="https://www.pololu.com/product/1408"> Link </a> |
 | Gikfun 10mm Jumbo LED (Assorted) | Is powered by the 3V cell battery to alert others of the user's presence | $8.58 for 20 | <a href="https://gikfun.com/products/gikfun-10mm-led-emitting-diodes-light-lamp-diffused-f10-round-led-for-arduino-pack-of-20pcs"> Link </a> |  
+
+
+| **Part** | **Note** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 # Other Resources
 [Sparkfun Guide for Pro Micro](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro)  
