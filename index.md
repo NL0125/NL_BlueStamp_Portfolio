@@ -220,8 +220,8 @@ void loop() {
 
 # Bill of Materials
 
-| **Part** | **Note** | **Price** | **Link** |
-|:--:|:--:|:--:|:--:|
+| **Part** | **Note** | **Price** | **Link** |  
+|:--:|:--:|:--:|:--:|  
 | Jecery Carbon Fiber Sheet (6.5 ft by 12") (Black) | Material the vest and belt are constructed out of | $16.90 | [Link](https://www.amazon.com/Carbon-Structural-Reinforcement-Concrete-Basements/dp/B0BCNQXN7D/ref=sr_1_3?dib=eyJ2IjoiMSJ9.5jhn41WqYeKujVHiGVecwfkUfqQYYbgRIF7WNXmjvuixjSs6XK_rkHeXjqVV6KR7jWmVBuqd1z1vGzuOBVala5uGrbrZspjYq1LmIVYrKJ2a8iz4fjRGoZ16H16Ucagkj_aDye1qjrMld7lEz7vm486fsrOY503VmtlC3Ys-3TgbdoVG2bUF6six9Im2xtESyfnQU6AhL6hVeKqczENSduKy2Q6TdgROQ8uLklCwiDw.cgT39aujoABoP_FB11y_cl7YQIAcMU8uS1cb3b2_7Bc&dib_tag=se&keywords=fiber%2Bsheet&qid=1782257577&sr=8-3&th=1)|
 | Arduino Pro Micro x 3 | Programmed to send power to pins under certain conditions via Arduino IDE | $22.50 x 3 | [Link](https://www.sparkfun.com/pro-micro-5v-16mhz.html?srsltid=AfmBOoreT8dJajXIeMY9PkLlnRz7L14C2gg2fORkX-7eIy5m_sGlBzjY)|
 | HC-SR04 Ultrasonic Sensor (5V) x 3 | Integrated into circuit to detect obstacles with | $5.25 | [Link](https://www.sparkfun.com/ultrasonic-distance-sensor-hc-sr04.html?srsltid=AfmBOoqIoZSd07gAvZ3IdNIr2XuZvXCTNxYS5L2CjmwcNRo4ROCk-ir9)|
